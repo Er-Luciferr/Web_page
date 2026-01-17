@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Car Watch")
+st.title("Vehicle Watch")
 st.header("Welcome to HomePage ")
 st.subheader("This is a website to showcase different CARS")
 st.write("\n")
